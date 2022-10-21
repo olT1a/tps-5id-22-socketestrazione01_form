@@ -1,0 +1,10 @@
+C:\Users\rocchi.18363\Desktop\Rocchi_server01_form\Rocchi_server01_form\bin\Debug\Rocchi_server01_form.exe.config
+C:\Users\rocchi.18363\Desktop\Rocchi_server01_form\Rocchi_server01_form\bin\Debug\Rocchi_server01_form.exe
+C:\Users\rocchi.18363\Desktop\Rocchi_server01_form\Rocchi_server01_form\bin\Debug\Rocchi_server01_form.pdb
+C:\Users\rocchi.18363\Desktop\Rocchi_server01_form\Rocchi_server01_form\obj\Debug\Rocchi_server01_form.csprojAssemblyReference.cache
+C:\Users\rocchi.18363\Desktop\Rocchi_server01_form\Rocchi_server01_form\obj\Debug\Rocchi_server01_form.Form1.resources
+C:\Users\rocchi.18363\Desktop\Rocchi_server01_form\Rocchi_server01_form\obj\Debug\Rocchi_server01_form.Properties.Resources.resources
+C:\Users\rocchi.18363\Desktop\Rocchi_server01_form\Rocchi_server01_form\obj\Debug\Rocchi_server01_form.csproj.GenerateResource.cache
+C:\Users\rocchi.18363\Desktop\Rocchi_server01_form\Rocchi_server01_form\obj\Debug\Rocchi_server01_form.csproj.CoreCompileInputs.cache
+C:\Users\rocchi.18363\Desktop\Rocchi_server01_form\Rocchi_server01_form\obj\Debug\Rocchi_server01_form.exe
+C:\Users\rocchi.18363\Desktop\Rocchi_server01_form\Rocchi_server01_form\obj\Debug\Rocchi_server01_form.pdb
